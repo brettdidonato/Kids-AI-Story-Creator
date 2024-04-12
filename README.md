@@ -54,6 +54,12 @@ To deploy on GCP Cloud Run, update the variables in the script **gcp_cloud_run_d
 
 <br>
 
+# Example Story Input:
+
+<img src="create-story.png" alt="create story form" width="500" />
+
+<br>
+
 # Example Story Output:
 
 > <img src="carrot-spaceship.png" alt="carrot spaceship" width="300"/>
